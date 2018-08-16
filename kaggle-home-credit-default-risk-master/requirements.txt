@@ -1,0 +1,8 @@
+numpy
+pandas
+lightgbm
+sklearn
+matplotlib
+seaborn
+bayesian-optimization
+joblib
